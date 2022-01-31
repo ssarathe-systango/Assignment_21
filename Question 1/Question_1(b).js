@@ -13,4 +13,4 @@ let remainingDays = Math.ceil(
    (dayMilliseconds)
 );
 document.write("There are " + remainingDays +
-                   " days remaining until Christmas.");
+                   " days remaining until next Christmas.");

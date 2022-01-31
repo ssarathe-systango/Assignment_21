@@ -30,3 +30,5 @@ setInterval(function () {
     currentTime = getDateTime();
     document.getElementById("id1").innerHTML = currentTime;
 }, 1000);
+
+alert(getDateTime());

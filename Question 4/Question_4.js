@@ -9,10 +9,6 @@ function pow_of_2(num){
      return false;
     }
 }
-// console.log(pow_of_2(8));
-// console.log(pow_of_2(18));
-// console.log(pow_of_2(16));
-// console.log(pow_of_2(64));
 
 alert(pow_of_2(8));
 alert(pow_of_2(18));
